@@ -4,6 +4,8 @@
 
 **Date:** March 2026
 
+**Available at SSRN:** [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6486722](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6486722)
+
 ---
 
 ## Abstract
@@ -53,12 +55,13 @@ This paper bridges that gap with three contributions:
   author    = {Sun, Peiya},
   title     = {From Labor to Attention: A Token-Economic Framework for the {AI} Era},
   year      = {2026},
-  note      = {Preprint}
+  note      = {SSRN preprint},
+  url       = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6486722}
 }
 ```
 
 **APA:**
-Sun, P. (2026). From Labor to Attention: A Token-Economic Framework for the AI Era. *Preprint*.
+Sun, P. (2026). *From Labor to Attention: A Token-Economic Framework for the AI Era* [SSRN preprint]. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6486722
 
 ---
 
